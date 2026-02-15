@@ -6,8 +6,8 @@ This project analyzes an A/B test conducted in a mobile puzzle game to evaluate 
 
 Two variants were tested:
 
-**gate_30**
-**gate_40**
+gate_30
+gate_40
 
 ---
 
@@ -243,4 +243,5 @@ This phase is critical for long-term retention and LTV growth.
 # Author
 
 Çağan Yüzay
+
 
