@@ -1,5 +1,3 @@
----
-
 # Mobile Game A/B Test – Gate Placement Retention Analysis
 
 This project analyzes an A/B test conducted in a mobile puzzle game to evaluate how gate placement impacts retention and player engagement.
@@ -243,5 +241,6 @@ This phase is critical for long-term retention and LTV growth.
 # Author
 
 Çağan Yüzay
+
 
 
